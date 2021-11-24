@@ -3,7 +3,6 @@
 ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
 
 # Git e seus comandos
- Esse git é apenas uma anotações com os comandos git e explicando um pouco sobre cada
 
 ## Estados
 
